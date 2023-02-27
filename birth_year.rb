@@ -1,9 +1,8 @@
-# Ask for a person’s age (use `gets` to store the user's input), 
+# Ask for a person's age (use `gets` to store the user's input), 
 # then use the current year today to calculate and display what 
 # year they were born in.
 # You can (but don't have to) use the Date class to determine the year today.
 # Note that we're not taking specific birthdays into account, so the year might be off.
-#
 #
 # Should output (assuming the current year is 2023):
 #
