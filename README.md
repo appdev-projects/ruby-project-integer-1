@@ -1,3 +1,3 @@
 # Ruby Practice
 
-This project is associated with the [`Integer` chapter](https://firstdraft.github.io/appdev-textbook/integer.html). The steps to open and run a GitPod project can be found [here](https://firstdraft.github.io/appdev-textbook/string.html#start-gitpod-project).
+This project is associated with the [`Integer` lesson](https://learn.firstdraft.com/lessons/10). The steps to open and run a Gitpod project can be found [here](https://learn.firstdraft.com/lessons/29).
